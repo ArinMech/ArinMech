@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArinMech
+- 👀 I’m an ambitious prospective engineer pursuing my Bachelors in Mechanical Engineering at UIUC
+- 🌱 I’m currently learning FEA, Engineering Mechanics, Composites, Circuits, and Coding
+- 💞️ I’m looking to collaborate on cool Electrical or Electromechanical projects involving C/C++, Python, Arduino, etc.
+- 📫 How to reach me: Email: ac124@illinois.edu
